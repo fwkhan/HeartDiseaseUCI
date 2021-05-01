@@ -1,3 +1,3 @@
-# HeartDiseaseUCI
-# Repository for Heart Disease UCI APP
-# Deployet to Heroku
+## HeartDiseaseUCI
+## Repository for Heart Disease UCI APP
+## Deployed to Heroku
